@@ -8,6 +8,10 @@ body {
 	background-color: #e4e4e4;
 }
 
+html {
+	font-family: 'Roboto', sans-serif;
+}
+
 .nav-bar-title > a {
 	line-height: 64px;
 	color: pink;
