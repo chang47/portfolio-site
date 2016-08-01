@@ -1,0 +1,53 @@
+* {
+	overflow: hidden;
+}
+
+html {
+	height: 100%;
+	font-family: 'Roboto', sans-serif;
+}
+body {
+	height: 100%;
+	margin: 0 0 0 0;
+	color: #ffffff;
+}
+
+h1 {
+	font-size: 48px;
+}
+
+a {
+	color: #009bff;
+}
+
+.home-nav {
+	font-size: 20px;
+}
+
+.show-user {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: auto;
+	margin-bottom: auto;
+	width: 30%;
+	text-align: center;
+	border-style: solid;
+	border-color: white;
+	position: relative;
+	top: 40%;
+	bottom: 60%;
+}
+
+#particles-js {
+	position: absolute;
+	top: 0;
+
+	width: 100%;
+	height: 100%;	
+	background-position: 50% 50%;
+	background-repeat: no-repeat;
+
+	background: #5C258D; /* fallback for old browsers */
+	background: -webkit-linear-gradient(bottom right, #5C258D , #4389A2); /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to top left, #5C258D , #4389A2); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
