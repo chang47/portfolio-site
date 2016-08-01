@@ -4,6 +4,10 @@
    Author's custom styles
    ========================================================================== */
 
+body {
+	background-color: #e4e4e4;
+}
+
 .nav-bar-title > a {
 	line-height: 64px;
 	color: pink;
